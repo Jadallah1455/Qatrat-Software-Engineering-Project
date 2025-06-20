@@ -1,8 +1,6 @@
 # Qatrat-Software-Engineering-Project
 💻 A full Software Engineering project for the Qatrat Charity Organization's web system. This includes requirement analysis, UML diagrams, system design, project planning, testing strategies, and documentation following the software development life cycle (SDLC).
 
-# Qatrat Charity – Software Engineering Project
-
 💧 This repository contains a comprehensive **Software Engineering** project for developing a web-based system for the **Qatrat Charity Organization**.
 
 The platform is designed to support the organization's mission by automating operations, enhancing communication, and streamlining access for donors, staff, and beneficiaries.
